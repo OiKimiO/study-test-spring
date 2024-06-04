@@ -5,6 +5,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 import java.util.concurrent.atomic.AtomicLong;
+
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
@@ -30,22 +32,24 @@ public class MemberController {
     }
 
     @PutMapping("/members/{id}")
-    public ResponseEntity<Void> update() {
+    public ResponseEntity<Void> update(@PathVariable(name = "id") Long id,
+                                       @RequestBody Member updateMember) {
         // TODO: member의 수정 정보와 url 상의 id 정보를 받아 member 정보를 수정한다.
         Member member = members.stream()
-            .filter(it -> Objects.equals(it.getId(), null))
+            .filter(it -> Objects.equals(it.getId(), id))
             .findFirst()
             .orElseThrow(RuntimeException::new);
 
-        member.update(null);
+        member.update(updateMember);
         return null;
     }
 
     @DeleteMapping("/members/{id}")
-    public ResponseEntity<Void> delete() {
+    @ResponseStatus(value = HttpStatus.NO_CONTENT)
+    public ResponseEntity<Void> delete(@PathVariable(name = "id") Long id) {
         // TODO: url 상의 id 정보를 받아 member를 삭제한다.
         Member member = members.stream()
-            .filter(it -> Objects.equals(it.getId(), null))
+            .filter(it -> Objects.equals(it.getId(), id))
             .findFirst()
             .orElseThrow(RuntimeException::new);
 
