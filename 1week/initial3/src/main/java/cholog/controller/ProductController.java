@@ -24,4 +24,10 @@ public class ProductController {
 
         return ResponseEntity.ok().build();
     }
+
+    @ExceptionHandler
+    public ResponseEntity<Void> handleIllegalArgumentException(IllegalArgumentException e) {
+        System.out.println("IllegalArgumentException occurred: " + e.getMessage());
+        return ResponseEntity.badRequest().build();
+    }
 }
