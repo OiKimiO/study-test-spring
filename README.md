@@ -50,6 +50,11 @@
 
 ### 1주차 - 학습 테스트 및 방탈출 예약 관리
   - 학습 테스트 구현
+      - [MVC Response](https://github.com/OikimiO/study-test-spring/tree/main/1week/initial1)
+      - [CRUD API](https://github.com/OikimiO/study-test-spring/tree/main/1week/initial2)
+      - [JdbcTemplate](https://github.com/OikimiO/study-test-spring/tree/main/1week/initial4)
+      - [Spring Bean](https://github.com/OikimiO/study-test-spring/tree/main/1week/initial5)
+      - [Exception](https://github.com/OikimiO/study-test-spring/tree/main/1week/initial3)
   - 페이지 설정
   - 1단계: 예약 기능 구현
   - 2단계: 예외 처리 및 리팩터링
