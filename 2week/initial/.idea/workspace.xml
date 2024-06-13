@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bec6f53-21fb-4e6c-9acf-b0dfd6c8735c" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/SpringAuthApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/auth/application/AuthService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/auth/application/AuthorizationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/auth/dto/AuthInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/auth/dto/MemberResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/auth/dto/TokenRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/auth/dto/TokenResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/auth/infrastructure/AuthorizationExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/auth/infrastructure/BasicAuthorizationExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/auth/infrastructure/BearerAuthorizationExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/auth/infrastructure/JwtTokenProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/auth/ui/BasicLoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/auth/ui/SessionLoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cholog/auth/ui/TokenLoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/image/basic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/image/session.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/image/token.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/cholog/AuthTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/SpringAuthApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/auth/application/AuthService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/auth/application/AuthorizationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/auth/dto/AuthInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/auth/dto/MemberResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/auth/dto/TokenRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/auth/dto/TokenResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/auth/infrastructure/AuthorizationExtractor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/auth/infrastructure/BasicAuthorizationExtractor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/auth/infrastructure/BearerAuthorizationExtractor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/auth/infrastructure/JwtTokenProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/auth/ui/BasicLoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/auth/ui/SessionLoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cholog/auth/ui/TokenLoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/image/basic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/image/session.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/image/token.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cholog/AuthTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2hpUigHfCk4fmGumUKKrthhdyyX" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.AuthTest.basicLogin.executor": "Run",
+    "JUnit.AuthTest.executor": "Debug",
+    "JUnit.AuthTest.sessionLogin.executor": "Run",
+    "JUnit.AuthTest.tokenLogin.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/eh_com/GradleProject/study-test-spring/2week/initial/build.gradle",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.31034482",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.AuthTest">
+    <configuration name="AuthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-auth-1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cholog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cholog" />
+      <option name="MAIN_CLASS_NAME" value="cholog.AuthTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthTest.basicLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-auth-1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cholog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cholog" />
+      <option name="MAIN_CLASS_NAME" value="cholog.AuthTest" />
+      <option name="METHOD_NAME" value="basicLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthTest.sessionLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-auth-1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cholog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cholog" />
+      <option name="MAIN_CLASS_NAME" value="cholog.AuthTest" />
+      <option name="METHOD_NAME" value="sessionLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthTest.tokenLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-auth-1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cholog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cholog" />
+      <option name="MAIN_CLASS_NAME" value="cholog.AuthTest" />
+      <option name="METHOD_NAME" value="tokenLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AuthTest" />
+        <item itemvalue="JUnit.AuthTest.tokenLogin" />
+        <item itemvalue="JUnit.AuthTest.sessionLogin" />
+        <item itemvalue="JUnit.AuthTest.basicLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-249ae16d76d6-af57353a" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="5bec6f53-21fb-4e6c-9acf-b0dfd6c8735c" name="변경" comment="" />
+      <created>1718290640598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718290640598</updated>
+    </task>
+    <servers />
+  </component>
+</project>
