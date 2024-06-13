@@ -25,6 +25,11 @@
 2. 요구사항에 대한 기술을 적용하기
 3. 기술 적용후 해당 기술에 대해 정확히 이해하기
     - 공식 문서는 반드시 읽되, 이해가 안된다면 블로그를 참고
+  
+### Commit 작성 방식
+Title: [진행 프로젝트 이름] - [어떤 기능을 구현했는지 정리]
+
+Body: 구현한 기능에 대한 내용 정리 ( 최대 2줄만 )
 
 <br />
 
@@ -50,6 +55,11 @@
 
 ### 1주차 - 학습 테스트 및 방탈출 예약 관리
   - 학습 테스트 구현
+      - [MVC Response](https://github.com/OikimiO/study-test-spring/tree/main/1week/initial1)
+      - [CRUD API](https://github.com/OikimiO/study-test-spring/tree/main/1week/initial2)
+      - [JdbcTemplate](https://github.com/OikimiO/study-test-spring/tree/main/1week/initial4)
+      - [Spring Bean](https://github.com/OikimiO/study-test-spring/tree/main/1week/initial5)
+      - [Exception](https://github.com/OikimiO/study-test-spring/tree/main/1week/initial3)
   - 페이지 설정
   - 1단계: 예약 기능 구현
   - 2단계: 예외 처리 및 리팩터링
